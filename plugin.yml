@@ -1,0 +1,9 @@
+name: Localhost
+version: 1.0.0
+api: [2.0.0]
+author: Rqsner
+main: local\Localhost
+commands:
+  connect:
+    description: Ligar o localhost
+    usage: /connect
