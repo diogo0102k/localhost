@@ -1,0 +1,2 @@
+# localhost
+Pocketmine localhost
