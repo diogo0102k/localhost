@@ -44,7 +44,7 @@ class LocalhostServer extends \Thread {
 
     private function handleClient($client) {
         // Lógica para lidar com a conexão TCP do cliente
-        // Você pode ler os dados recebidos e enviar respostas para o cliente aqui
+        //ler dados recebidos e enviar respostas para o cliente aqui
 
         // Exemplo de leitura de dados do cliente
         $data = socket_read($client, 2048);
